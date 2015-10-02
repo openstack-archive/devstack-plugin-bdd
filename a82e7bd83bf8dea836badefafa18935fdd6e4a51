@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Vitaly Gridnev <vgridnev@mirantis.com>
+Workflow+1: Vitaly Gridnev <vgridnev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Oct 2015 22:03:03 +0000
+Reviewed-on: https://review.openstack.org/229738
+Project: openstack/devstack-plugin-bdd
+Branch: refs/heads/master
