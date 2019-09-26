@@ -1,5 +1,3 @@
-DevStack BlockDeviceDriver Plugin
-=================================
+# This repo has moved to OpenDev
 
-In order to enable plugin at DevStack you need to put following
-line in your local.conf file ``enable_plugin bdd https://github.com/openstack/devstack-plugin-bdd``
+It can now be found at [https://opendev.org/x/devstack-plugin-bdd](https://opendev.org/x/devstack-plugin-bdd)
